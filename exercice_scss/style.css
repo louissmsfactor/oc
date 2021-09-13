@@ -1,81 +1,95 @@
+.mt-1 {
+  margin: 10px; }
+
+.mt-2 {
+  margin: 20px; }
+
+.mt-3 {
+  margin: 30px; }
+
+.mt-4 {
+  margin: 40px; }
+
+.mt-5 {
+  margin: 50px; }
+
+.mt-6 {
+  margin: 60px; }
+
+.mt-7 {
+  margin: 70px; }
+
+.mt-8 {
+  margin: 80px; }
+
+.mt-9 {
+  margin: 90px; }
+
+.mt-10 {
+  margin: 100px; }
+
 .col-1 {
-  width: 25%;
-}
+  width: 25%; }
 
 .col-2 {
-  width: 50%;
-}
+  width: 50%; }
 
 .col-3 {
-  width: 75%;
-}
+  width: 75%; }
 
 .col-4 {
-  width: 100%;
-}
+  width: 100%; }
 
 .fruit-banane {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-cerise {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-ananas {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-pomme {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-banane {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-cerise {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-ananas {
-  width: 50%;
-}
+  width: 50%; }
 
 .fruit-pomme {
-  width: 50%;
-}
+  width: 50%; }
 
 .triangle-top {
   width: 0;
   height: 0;
   border: 150px solid transparent;
   border-top-width: 0;
-  border-bottom-color: #7a1763;
-}
+  border-bottom-color: #7a1763; }
 
 .triangle-bottom {
   width: 0;
   height: 0;
   border: 100px solid transparent;
   border-bottom-width: 0;
-  border-top-color: #A51F86;
-}
+  border-top-color: #A51F86; }
 
 .triangle-left {
   width: 0;
   height: 0;
   border: 80px solid transparent;
   border-right-width: 0;
-  border-left-color: #d027a9;
-}
+  border-left-color: #d027a9; }
 
 .triangle-right {
   width: 0;
   height: 0;
   border: 60px solid transparent;
   border-left-width: 0;
-  border-right-color: #dd4dbc;
-}
+  border-right-color: #dd4dbc; }
 
 /*# sourceMappingURL=style.css.map */
