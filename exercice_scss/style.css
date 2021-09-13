@@ -1,0 +1,81 @@
+.col-1 {
+  width: 25%;
+}
+
+.col-2 {
+  width: 50%;
+}
+
+.col-3 {
+  width: 75%;
+}
+
+.col-4 {
+  width: 100%;
+}
+
+.fruit-banane {
+  width: 50%;
+}
+
+.fruit-cerise {
+  width: 50%;
+}
+
+.fruit-ananas {
+  width: 50%;
+}
+
+.fruit-pomme {
+  width: 50%;
+}
+
+.fruit-banane {
+  width: 50%;
+}
+
+.fruit-cerise {
+  width: 50%;
+}
+
+.fruit-ananas {
+  width: 50%;
+}
+
+.fruit-pomme {
+  width: 50%;
+}
+
+.triangle-top {
+  width: 0;
+  height: 0;
+  border: 150px solid transparent;
+  border-top-width: 0;
+  border-bottom-color: #7a1763;
+}
+
+.triangle-bottom {
+  width: 0;
+  height: 0;
+  border: 100px solid transparent;
+  border-bottom-width: 0;
+  border-top-color: #A51F86;
+}
+
+.triangle-left {
+  width: 0;
+  height: 0;
+  border: 80px solid transparent;
+  border-right-width: 0;
+  border-left-color: #d027a9;
+}
+
+.triangle-right {
+  width: 0;
+  height: 0;
+  border: 60px solid transparent;
+  border-left-width: 0;
+  border-right-color: #dd4dbc;
+}
+
+/*# sourceMappingURL=style.css.map */
